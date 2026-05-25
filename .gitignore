@@ -1,0 +1,14 @@
+# Arquivos temporários do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos compilados do Python
+__pycache__/
+*.pyc
+
+# Bloquear arquivos de dados pesados
+*.csv
+*.xlsx
+data/
+
+# Pastas de configuração local do VS Code
+.vscode/
