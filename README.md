@@ -29,8 +29,7 @@ Como o banco de dados é muito pesado, ele não foi incluído neste repositório
 
 * **Período 1:** Aprendizado Supervisionado e Aprendizado Não Supervisionado.
 
-* **Período 2:** Redes Neurais Artificiais e Classificação Estelar.
-* **Link Kaggle:** https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17/data.
+* **Período 2:** Redes Neurais Artificiais e Classificação Estelar.<br>**Link Kaggle:** https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17/data.
 
 ## Tecnologias Utilizadas
 * Python
