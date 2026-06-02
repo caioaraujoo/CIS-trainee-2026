@@ -31,7 +31,13 @@ Como o banco de dados é muito pesado, ele não foi incluído neste repositório
 
 * **Período 2:** Redes Neurais Artificiais e Classificação Estelar.<br>**Link Kaggle:** https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17/data.
 
+* **Período 3:** Pipeline de RAG com wikipedia-PT.<br>**Link HuggingFace:** https://huggingface.co/datasets/TucanoBR/wikipedia-PT
+
 ## Tecnologias Utilizadas
+* Google Colab
 * Python
 * Jupyter Notebook / VS Code
 * PyTorch
+* Pandas
+* Seaborn
+* Langchain
