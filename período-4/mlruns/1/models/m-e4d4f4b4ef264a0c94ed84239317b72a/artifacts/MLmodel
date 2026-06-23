@@ -1,0 +1,23 @@
+artifact_path: "file:c:/Program Files/faculdade/cis-trainee-2026/per\xEDodo-4/mlruns/1/models/m-e4d4f4b4ef264a0c94ed84239317b72a/artifacts"
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.12.9
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.14.0
+model_id: m-e4d4f4b4ef264a0c94ed84239317b72a
+model_size_bytes: 9323
+model_uuid: m-e4d4f4b4ef264a0c94ed84239317b72a
+prompts: null
+run_id: 9d8695442c68463cb93fe353eb895841
+utc_time_created: '2026-06-19 23:06:13.770861'
