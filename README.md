@@ -37,15 +37,16 @@ CIS-trainee-2026/
 
 | Período | Tema | Ambiente | Python |
 |---|---|---|---|
-| 1 | Não realizado — dispensado pela organização para este trainee | — | — |
-| 2 | Redes Neurais Artificiais e Classificação Estelar | Local | 3.14.9 |
-| 3 | Pipeline de RAG com wikipedia-PT | Local | 3.12.9 |
+| 1 | Aprendizado Supervisionado x Não Supervisionado | — | — |
+| 2 | Redes Neurais Artificiais e Classificação Estelar | Local | 3.14.5 |
+| 3 | Pipeline de RAG com wikipedia-PT | Local | 3.14.5 |
 | 4 | MLOps — rastreamento de experimentos com MLflow | Local | 3.12.9 |
 | 5 | Explainable AI (xAI) e interpretabilidade de modelos | Google Colab (trabalho em grupo) | Colab (padrão) |
 
 Detalhes de cada período (dataset, decisões técnicas, como rodar) estão no README de cada pasta.
 
-> **Nota sobre as versões de Python:** o período 2 foi feito em uma versão diferente dos demais (3.14.9) por conta de instabilidade no ambiente de desenvolvimento no momento da entrega. A partir do período 3 o ambiente foi padronizado em 3.12.9.
+> **Nota sobre o período 1:** O Período 1 não consta neste repositório devido a atraso no cronograma por parte da organização, as atividades do trainee tiveram início no Período 2.
+> **Nota sobre as versões de Python:** o período 2 e 3 foram entregues na versão 3.14.5 do python, enquanto a versão 4 foi entregue na versão 3.12.9 do python.
 
 ## `treinos/`
 
