@@ -12,3 +12,6 @@ data/
 
 # Pastas de configuração local do VS Code
 .vscode/
+
+mlruns/
+mlruns.db
