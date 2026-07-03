@@ -1,8 +1,6 @@
-pandas
-torch
-transformers
-datasets
-sentence-transformers
-faiss-cpu
-langchain
-langchain-community
+transformers==5.9.0
+datasets==4.8.5
+sentence-transformers==5.5.1
+faiss-cpu==1.14.2
+langchain==0.3.30
+langchain-community==0.3.27
