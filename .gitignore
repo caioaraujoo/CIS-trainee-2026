@@ -15,3 +15,9 @@ data/
 
 mlruns/
 mlruns.db
+
+modelo_api/
+
+.venv/
+venv/
+env/
