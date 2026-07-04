@@ -11,7 +11,7 @@ Pipeline básico de RAG para responder perguntas com base em uma coleção de te
 
 ## Ambiente
 
-- **Python:** [conferir versão — 3.12.9 ou 3.14.5]
+- **Python:** [3.14.5]
 - **Libs principais:** `langchain`, `langchain-community`, `transformers`, `datasets`, `sentence-transformers`, `faiss-cpu`
 
 ## Pipeline

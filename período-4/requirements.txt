@@ -6,3 +6,6 @@ scikit-learn==1.9.0
 scipy==1.18.0
 skops==0.14.0
 matplotlib==3.11.0
+fastapi==0.115.0
+uvicorn==0.32.0
+joblib==1.4.2
